@@ -33,19 +33,12 @@ Smart energy management for a sustainable future.
 
 Dataset Name: Solar Panel Dataset
 
-Source: Kaggle (via kagglehub)
-
-Download Code:
-
-import kagglehub
+ **Dataset Name:** [**Solar Panel Dataset**](https://www.kaggle.com/datasets/dk79944/solar-plate-image)  
+ **Source:** **Kaggle (via kagglehub)**  
 
 
-path = kagglehub.dataset_download("dk79944/solar-plate-image")
 
-print("Path to dataset files:", path)
-
-
-Defect Categories:
+# Defect Categories:
 
 Bird-drop
 
