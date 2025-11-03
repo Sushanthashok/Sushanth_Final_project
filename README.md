@@ -1,8 +1,8 @@
-🌞 Solar Panel Defect Detection using CNN (Sustainability Theme)
+# Solar Panel Defect Detection using CNN (Sustainability Theme)
 
 
 
-🧠 Project Problem Statement
+# Project Problem Statement
 
 As the world transitions toward renewable energy, solar power stands as one of the most promising sources for a sustainable and low-carbon future. However, the efficiency of solar panels declines when they develop defects such as bird drops, dust accumulation, electrical damage, physical cracks, or snow coverage.
 Manual inspection of large-scale solar farms is labor-intensive, time-consuming, and prone to human error, leading to significant energy loss and maintenance delays.
@@ -11,7 +11,7 @@ To address this challenge, this project proposes an AI-powered Solar Panel Defec
 By analyzing solar panel images, the model automatically detects and classifies defects into categories such as Bird-drop, Clean, Dusty, Electrical Damage, Physical Damage, and Snow-Covered.
 This enables proactive maintenance, enhances energy output, and supports the global mission of achieving sustainable renewable energy generation.
 
-🌍 Sustainability Focus
+# Sustainability Focus
 
 This project directly supports the following United Nations Sustainable Development Goals (SDGs):
 
@@ -29,7 +29,7 @@ Predictive maintenance through data-driven insights.
 
 Smart energy management for a sustainable future.
 
-🗂️ Dataset Details
+# Dataset Details
 
 Dataset Name: Solar Panel Dataset
 
@@ -39,7 +39,7 @@ Download Code:
 
 import kagglehub
 
-# Download latest version
+
 path = kagglehub.dataset_download("dk79944/solar-plate-image")
 
 print("Path to dataset files:", path)
@@ -61,7 +61,7 @@ Snow-Covered
 
 Type: Image Dataset
 
-⚙️ Project Workflow
+# Project Workflow
 
 Data Collection & Preprocessing
 
@@ -91,7 +91,7 @@ Create an interactive Streamlit web app for real-time defect detection.
 
 Enable users to upload solar panel images for instant defect predictions.
 
-🌱 Sustainability Benefits
+# Sustainability Benefits
 
 Boosts solar power efficiency through intelligent defect detection.
 
@@ -103,7 +103,7 @@ Encourages large-scale AI adoption in clean energy monitoring.
 
 Supports data-driven decisions for a greener future.
 
-🚀 Future Enhancements
+# Future Enhancements
 
 Real-time defect detection via drones or IoT cameras.
 
