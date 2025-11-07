@@ -32,7 +32,8 @@ Smart energy management for a sustainable future.
 
 
 ## 🔗 Download Large Files
-Due to GitHub file size limits, the large folders  are uploaded to Google Drive.  
+Due to GitHub file size limits, the large folders  are uploaded to Google Drive. 
+
 👉 ENVIRONMENT SETUP : [Download from Google Drive](https://drive.google.com/file/d/1f0hnsoXQO2LT3EDZG_0goO1XVNd9-vdT/view?usp=drive_link)
 
 👉 IMPLEMENTATION VIDEO : [Implementation video](https://drive.google.com/file/d/1d4RblmZY2uH_Gv-yaf2xQlZufgdq2sk1/view?usp=drive_link)
